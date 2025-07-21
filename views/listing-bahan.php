@@ -1,5 +1,5 @@
 <!-- file views/listing-bahan.php -->
-//testing commit
+
 <h1>Listing bahan-bahan</h1>
 
 <?php if (empty($bahanBahan)): ?>
