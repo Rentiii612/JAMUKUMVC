@@ -1,3 +1,4 @@
+//Testing commit
 <?php
 function decorate($data) {
     if (is_array($data)) {
