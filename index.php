@@ -1,5 +1,4 @@
 <?php
-// Update kecil untuk testing commit terpisah
 
 require_once "router.php";
 require_once "model/bahan.php";
